@@ -29,7 +29,7 @@ f814af6efc1d11ebac43f7ea2 sofi 9 agu
 9a6ba636fa7b11ebae049a6b9 owner
 e6626d3efa7811eb899ae6625 zubair 11 agu
 a8526774f5cd11eb8904a8524 mani 12 agu
-530f1cc2fb8011eb9a8e52f16 galib mehndi 12 agu
+626c9fa3021b11ec943e62564 galib mehndi 12 agu
 482b9ea3fb8d11eb94bb482b8 harshu 13 agu
 61a97606f48211ebbaa261a97 sufi 9 agu
 e9d4aa05fb3411eba039e9be8 16 agu dani
