@@ -2,12 +2,8 @@
 0367b6fdfacc11eb9f7403488 farii
 c985ab54edbf11eb9cb0yghfg Haider 26 Agu
 47934c0cefc711eb8c1chcgfd abdullha 25 agu
-493fff61effb11eb8035hvhgd Hanzla agujuly
 901b48faf0f111eb91c4vghds chodhry 30 agu
 6e5a9811f29d11ebaac96e0ef moiz haider 30 agu
-6a7abd88f1fa11ebbc2f6a7ab sami agu 31
-fc950e21f1db11ebae28hjye2 amir ale 31 agu
-1cfb9030f21511eb941b1cfb8 saif ullah 31 agu
 a5fa323608b511ecaa13a5fa0-Speed shoaib khota 3 agu start
 94a633a8f47a11ebae8f94a62 muneeb asif 4 agu
 5fd5c05408a611ecbc845faba-Speed shoiab khota 4 agu
@@ -49,3 +45,4 @@ bd148ae003fe11ecb2babd147-Speed ad brand 25 agu
 325d91f3094d11ecbf27324b9-Speed naveed ahmed 30 agu
 abc042f006bf11eca94bab95d-Speed 2 ungliya 30 agu
 7d7c8d9409bf11ecbf677d698-Speed rameez 30 agu
+1bcdd921087011ec91ab1ba8b-Speed hanif khan 1 sep
